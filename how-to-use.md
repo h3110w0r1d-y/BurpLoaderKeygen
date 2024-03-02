@@ -62,8 +62,27 @@ sudo xattr -r -d com.apple.quarantine /Applications/Burp\ Suite\ Professional.ap
 
 ### 其他系统食用方法
 
-0. 将BurpLoaderKeygen.jar、burpsuite_pro_v20**.*.jar 放到同一目录下(也可将指定版本的Java放到目录中，注册机会自动调用)
-![image](https://user-images.githubusercontent.com/52311174/136488232-bae027a6-8f9a-45eb-9d6c-e0b150084170.png)
+0. 将BurpLoaderKeygen.jar、burpsuite_pro_v20**.*.jar 放到同一目录下，也可以将指定版本的Java放到目录中，注册机会自动调用
+
+```
+custom_dir/
+├── jdk/  # or jre/
+│ ├── bin/
+│ │ ├── java.exe  # or java
+│ │ └── ...
+│ └── ...
+├── BurpLoaderKeygen.jar
+└── burpsuite_pro_v20**.*.jar
+
+
+custom_dir/
+├── bin/
+│ ├── java.exe  # or java
+│ └── ...
+├── ...
+├── BurpLoaderKeygen.jar
+└── burpsuite_pro_v20**.*.jar
+```
 
 1. 直接双击 BurpLoaderKeygen.jar 或者 `java -jar BurpLoaderKeygen.jar`
 
