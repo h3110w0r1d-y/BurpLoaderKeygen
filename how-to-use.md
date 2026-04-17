@@ -1,4 +1,4 @@
-# BurpLoaderKeygen <img src="https://img.shields.io/static/v1?label=JAVA&message=v8%2b&color=blue"> <img src="https://img.shields.io/static/v1?label=BurpSuitePro&message=1.7%2b&color=blue"> <img src="https://img.shields.io/static/v1?label=System&message=Windows | Linux | macOS&color=blue"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/h3110w0r1d-y/BurpLoaderKeygen?style=social">
+# BurpLoaderKeygen <img src="https://img.shields.io/static/v1?label=JAVA&message=v8%2b&color=blue"> <img src="https://img.shields.io/static/v1?label=BurpSuitePro&message=1.7%2b&color=blue"> <img src="https://img.shields.io/static/v1?label=System&message=Windows%20|%20Linux%20|%20macOS&color=blue"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/h3110w0r1d-y/BurpLoaderKeygen?style=social">
 
 [使用说明（中文）](./how-to-use-zh.md)
 
