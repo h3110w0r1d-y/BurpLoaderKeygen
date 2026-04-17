@@ -4,4 +4,4 @@
 
 https://t.me/BurpLoaderKeygen
 
-[使用方法 | How to Use](./how-to-use.md)
+[使用方法](./how-to-use-zh.md) | [How to Use](./how-to-use.md)
